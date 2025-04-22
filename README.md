@@ -11,3 +11,9 @@ Cyphertex is a desktop app for encrypting and decrypting files using a custom DN
 
 ## 🛠️ Tech Stack
 Python · Tkinter · SQLite · Cryptography
+
+## 📷 Screenshots
+![Interface](images/screenshot1.png)
+
+## 🚫 Source Code
+The source code is private. For demos or collaborations, feel free to contact me.
